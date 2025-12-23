@@ -62,5 +62,5 @@ In the future, I plan to:
 
 ## Author
 
-- Website - [Your Name](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [Joan Ndungi](https://www.your-site.com)
+- Frontend Mentor - [@Keshiindungi](https://www.frontendmentor.io/profile/yourusername)
