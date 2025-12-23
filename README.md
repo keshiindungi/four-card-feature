@@ -2,17 +2,7 @@
 
 This is a solution to the [Four card feature section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-## Table of Contents
 
-- [Overview](#overview)
-  - [The Challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My Process](#my-process)
-  - [Built With](#built-with)
-  - [What I Learned](#what-i-learned)
-  - [Continued Development](#continued-development)
-- [Author](#author)
 
 ## Overview
 
