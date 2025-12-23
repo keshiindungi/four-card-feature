@@ -18,8 +18,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add your solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add your live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/keshiindungi/four-card-feature.git](https://your-solution-url.com)
+- Live Site URL: [https://keshiindungi.github.io/four-card-feature/](https://your-live-site-url.com)
 
 ## My Process
 
